@@ -1,4 +1,4 @@
-# Examen Final - Now UI Kit Angular
+# Examen Final - Tecnologias del Internet
 
 ## Tecnologías Principales
 - **Angular**: v14.2.0
@@ -23,5 +23,5 @@
 - **Web Animations JS**: v2.3.2
 
 ## Estudiantes
-- Freddy Andrés Quiroga Valderrama
+- Freddy Andrés Quiroga Balderrama
 - Alexander Rodríguez Corcos
